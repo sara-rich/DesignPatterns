@@ -6,7 +6,7 @@
 *.sln
 *.vcxproj
 *.vcxproj.filters
-*.vcxprog.user
+*.vcxproj.user
 
 # build
 x64/
