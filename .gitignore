@@ -1,0 +1,12 @@
+# tmp file
+*~
+
+# visual studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# build
+x64/
